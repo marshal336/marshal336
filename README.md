@@ -8,6 +8,7 @@ I’ve been developing for a year now, writing client and server applications li
 - 🖥️  See my portfolio at [github](http://github.com/marshal336)
 - ✉️  You can contact me at [duraroma4@gmail.com](mailto:duraroma4@gmail.com)
 - 🧠  I'm learning a graphql now
+-   My ==> [Resume](https://i.postimg.cc/CMPwk8JD/Resume.png)
 
 # Skills
 
